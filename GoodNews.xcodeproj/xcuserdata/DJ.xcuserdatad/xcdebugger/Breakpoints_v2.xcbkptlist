@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ABBFB0FE-45A9-41F0-96A9-13C08FD24439"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "629E7D82-35F9-4D04-8F04-FBDB1D6B5EA2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoodNews/Services/Webservice.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "getArticles(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5373B257-CA5B-44C0-8245-23357AF62B42"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoodNews/Services/Webservice.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getArticles(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5373B257-CA5B-44C0-8245-23357AF62B42 - 8c1d4dca3ea1b047"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in GoodNews.Webservice.getArticles(url: Foundation.URL, completion: (Swift.Optional&lt;Swift.Array&lt;GoodNews.Article&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "GoodNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/DJ/Documents/iOS_Kickstart/Projects/MVVM/GoodNews/GoodNews/Services/Webservice.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1312">
+               </Location>
+               <Location
+                  uuid = "5373B257-CA5B-44C0-8245-23357AF62B42 - 8c1d4dca3ea1b047"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in GoodNews.Webservice.getArticles(url: Foundation.URL, completion: (Swift.Optional&lt;Swift.Array&lt;GoodNews.Article&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "GoodNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/DJ/Documents/iOS_Kickstart/Projects/MVVM/GoodNews/GoodNews/Services/Webservice.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1400">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
